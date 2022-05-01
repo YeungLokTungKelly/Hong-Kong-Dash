@@ -8,5 +8,5 @@ Please ensure to have Unity with Visual Studio 2017 installed before running the
 ## Running and building the game
 
 The GitHub link below contains all the required project files.
-
+[https://github.com/YeungLokTungKelly/Hong-Kong-Dash.git](https://github.com/YeungLokTungKelly/Hong-Kong-Dash.git)
 As this is a PC game, please build the game for PC within Unity. The screen resolution is 1920 x 1080. 
